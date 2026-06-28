@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ishan-1104/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Ishan-1104/LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishan-1104/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Ishan-1104/LeetCode/tree/master/0049-group-anagrams) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ishan-1104/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
