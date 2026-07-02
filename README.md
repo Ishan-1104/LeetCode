@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ishan-1104/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Ishan-1104/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishan-1104/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ishan-1104/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ishan-1104/LeetCode/tree/master/0567-permutation-in-string) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Ishan-1104/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
