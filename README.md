@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan-1104/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ishan-1104/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan-1104/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -165,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan-1104/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ishan-1104/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ishan-1104/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
