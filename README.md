@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1446-consecutive-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 ## Dynamic Programming
 |  |
 | ------- |
