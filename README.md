@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ishan-1104/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1390-four-divisors](https://github.com/Ishan-1104/LeetCode/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishan-1104/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ishan-1104/LeetCode/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishan-1104/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 ## Matrix
 |  |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishan-1104/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
