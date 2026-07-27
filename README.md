@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishan-1104/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Ishan-1104/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan-1104/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ishan-1104/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Ishan-1104/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ishan-1104/LeetCode/tree/master/3620-network-recovery-pathways) |
