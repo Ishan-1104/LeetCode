@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ishan-1104/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1288-remove-covered-intervals](https://github.com/Ishan-1104/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ishan-1104/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ishan-1104/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Ishan-1104/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/Ishan-1104/LeetCode/tree/master/1390-four-divisors) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
@@ -314,10 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ishan-1104/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
 <!---LeetCode Topics End-->
