@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan-1104/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ishan-1104/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Ishan-1104/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Breadth-First Search
 |  |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan-1104/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ishan-1104/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
