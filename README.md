@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ishan-1104/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ishan-1104/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ishan-1104/LeetCode/tree/master/0054-spiral-matrix) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
 |  |
 | ------- |
