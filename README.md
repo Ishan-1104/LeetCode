@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Ishan-1104/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ishan-1104/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ishan-1104/LeetCode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/Ishan-1104/LeetCode/tree/master/1390-four-divisors) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Ishan-1104/LeetCode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
+| [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
