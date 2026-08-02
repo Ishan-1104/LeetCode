@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Ishan-1104/LeetCode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Ishan-1104/LeetCode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ishan-1104/LeetCode/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ishan-1104/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
