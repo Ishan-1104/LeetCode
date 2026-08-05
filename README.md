@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ishan-1104/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1288-remove-covered-intervals](https://github.com/Ishan-1104/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ishan-1104/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/Ishan-1104/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ishan-1104/LeetCode/tree/master/1510-stone-game-iv) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishan-1104/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Ishan-1104/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ishan-1104/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ishan-1104/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ishan-1104/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1162-as-far-from-land-as-possible](https://github.com/Ishan-1104/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Ishan-1104/LeetCode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
