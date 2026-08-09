@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Ishan-1104/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Ishan-1104/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ishan-1104/LeetCode/tree/master/1510-stone-game-iv) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Ishan-1104/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
