@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan-1104/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ishan-1104/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Ishan-1104/LeetCode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Ishan-1104/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Ishan-1104/LeetCode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ishan-1104/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan-1104/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ishan-1104/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Ishan-1104/LeetCode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Ishan-1104/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
