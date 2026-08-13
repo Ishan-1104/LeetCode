@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ishan-1104/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ishan-1104/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ishan-1104/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Ishan-1104/LeetCode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Ishan-1104/LeetCode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ishan-1104/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -449,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ishan-1104/LeetCode/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ishan-1104/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Ishan-1104/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
