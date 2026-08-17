@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Ishan-1104/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishan-1104/LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishan-1104/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishan-1104/LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Ishan-1104/LeetCode/tree/master/1291-sequential-digits) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishan-1104/LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
