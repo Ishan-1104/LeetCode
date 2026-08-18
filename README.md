@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Ishan-1104/LeetCode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Ishan-1104/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1872-stone-game-viii](https://github.com/Ishan-1104/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ishan-1104/LeetCode/tree/master/2029-stone-game-ix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/Ishan-1104/LeetCode/tree/master/1690-stone-game-vii) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Ishan-1104/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1872-stone-game-viii](https://github.com/Ishan-1104/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ishan-1104/LeetCode/tree/master/2029-stone-game-ix) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ishan-1104/LeetCode/tree/master/0054-spiral-matrix) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Ishan-1104/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
