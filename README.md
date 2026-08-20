@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ishan-1104/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ishan-1104/LeetCode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishan-1104/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Ishan-1104/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Ishan-1104/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ishan-1104/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ishan-1104/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ishan-1104/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ishan-1104/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ishan-1104/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ishan-1104/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishan-1104/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Ishan-1104/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -498,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ishan-1104/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ishan-1104/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
