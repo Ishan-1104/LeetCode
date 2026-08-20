@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ishan-1104/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ishan-1104/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ishan-1104/LeetCode/tree/master/0054-spiral-matrix) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Ishan-1104/LeetCode/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ishan-1104/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
