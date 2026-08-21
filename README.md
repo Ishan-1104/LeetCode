@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/Ishan-1104/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ishan-1104/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Ishan-1104/LeetCode/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ishan-1104/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Ishan-1104/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3134-find-the-median-of-the-uniqueness-array](https://github.com/Ishan-1104/LeetCode/tree/master/3134-find-the-median-of-the-uniqueness-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ishan-1104/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ishan-1104/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ishan-1104/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/Ishan-1104/LeetCode/tree/master/1643-kth-smallest-instructions) |
 | [2063-vowels-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/2063-vowels-of-all-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ishan-1104/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
 | ------- |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ishan-1104/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ishan-1104/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ishan-1104/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
