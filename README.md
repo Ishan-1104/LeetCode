@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Ishan-1104/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ishan-1104/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Ishan-1104/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Ishan-1104/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Ishan-1104/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Ishan-1104/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0695-max-area-of-island](https://github.com/Ishan-1104/LeetCode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Ishan-1104/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Ishan-1104/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Ishan-1104/LeetCode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ishan-1104/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
