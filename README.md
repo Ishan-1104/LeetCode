@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishan-1104/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ishan-1104/LeetCode/tree/master/0567-permutation-in-string) |
+| [0970-powerful-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0970-powerful-integers) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Ishan-1104/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ishan-1104/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ishan-1104/LeetCode/tree/master/0877-stone-game) |
+| [0970-powerful-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0970-powerful-integers) |
 | [1140-stone-game-ii](https://github.com/Ishan-1104/LeetCode/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/Ishan-1104/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Ishan-1104/LeetCode/tree/master/1406-stone-game-iii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/Ishan-1104/LeetCode/tree/master/0970-powerful-integers) |
 | [1291-sequential-digits](https://github.com/Ishan-1104/LeetCode/tree/master/1291-sequential-digits) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishan-1104/LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
