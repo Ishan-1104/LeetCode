@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ishan-1104/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ishan-1104/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Ishan-1104/LeetCode/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ishan-1104/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ishan-1104/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ishan-1104/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan-1104/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/Ishan-1104/LeetCode/tree/master/1686-stone-game-vi) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Ishan-1104/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ishan-1104/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ishan-1104/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
