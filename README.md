@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ishan-1104/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ishan-1104/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Ishan-1104/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ishan-1104/LeetCode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ishan-1104/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ishan-1104/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ishan-1104/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1446-consecutive-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1446-consecutive-characters) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Ishan-1104/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ishan-1104/LeetCode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Ishan-1104/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Ishan-1104/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
