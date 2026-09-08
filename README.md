@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ishan-1104/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ishan-1104/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Ishan-1104/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ishan-1104/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Ishan-1104/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ishan-1104/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ishan-1104/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Ishan-1104/LeetCode/tree/master/0292-nim-game) |
 | [0400-nth-digit](https://github.com/Ishan-1104/LeetCode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ishan-1104/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishan-1104/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ishan-1104/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Ishan-1104/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Ishan-1104/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ishan-1104/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ishan-1104/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/Ishan-1104/LeetCode/tree/master/0464-can-i-win) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Ishan-1104/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Ishan-1104/LeetCode/tree/master/1386-cinema-seat-allocation) |
